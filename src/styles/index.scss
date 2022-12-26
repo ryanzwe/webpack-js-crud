@@ -1,0 +1,11 @@
+$body-color: slateblue;
+$error-color: red;
+
+body {
+  color: $body-color;
+  font-family: sans-serif;
+}
+
+.form-error {
+  color: $error-color;
+}
